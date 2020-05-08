@@ -1,6 +1,8 @@
 # supervised_ml
 ## credit risk analysis
 
+Objective: build and evaluate several machine learning models to assess credit risk
+
 1. credit_risk_resampling
 I explored 5 different methods for dealing with imbalanced datasets:
 I used several different resampling techniques: RandomOverSampler and SMOTE algorithms, tried the cluster centroid, and 
