@@ -1,4 +1,4 @@
-# credit risk analysis
+# Credit Risk Analysis
 
 ## Project Objective: 
 Use imbalanced-learn and scikit-learn libraries to build and evaluate models, and make a recommendation on whether they should be used to predict credit risk. The main objective is to address the class imbalance and the ways it can be solved, since binary classification is becoming such a popular application for supervised machine learning. By applyng several oversampling techniques and ensemble learners, I tried to solve this problem.
