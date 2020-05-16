@@ -1,7 +1,19 @@
-# supervised_ml
-## credit risk analysis
+# credit risk analysis
 
-Objective: build and evaluate several machine learning models to assess credit risk
+## Project Objective: 
+Use imbalanced-learn and scikit-learn libraries to build and evaluate models, and make a recommendation on whether they should be used to predict credit risk. The main objective is to address the class imbalance and the ways it can be solved, since binary classification is becoming such a popular application for supervised machine learning. By applyng several oversampling techniques and ensemble learners, I tried to solve this problem.
+
+### Methods Used:
+- Machine Learning
+- Predictive Modeling
+- Descriptive and Inferential Statistics 
+
+### Technologies: 
+- Python 3.0
+- scikit-learn library
+- imbalanced-learn library 
+
+## Project Description 
 
 1. credit_risk_resampling
 I explored 5 different methods for dealing with imbalanced datasets:
